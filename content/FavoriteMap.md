@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Page's Title
+title: This is my favorite cool map
 nav_order: 8.5
 ---
 
